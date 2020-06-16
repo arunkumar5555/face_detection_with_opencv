@@ -17,12 +17,4 @@ Run script:
 python3 app.py
 ```
 
-## Subscribe to our Machine Learning blog
-[Blog](https://medium.com/machine-learning-world)
-[Telegram channel](https://t.me/ml_world)
-
-## Support 
-
-If you like what im doing, you can send me some money for pepsi(i dont drink alcohol).
-https://www.paypal.me/creotiv
 
